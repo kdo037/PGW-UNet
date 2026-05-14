@@ -1,0 +1,29 @@
+#
+# gridID 1
+#
+gridtype  = projection
+gridsize  = 262792
+xsize     = 614
+ysize     = 428
+xname     = x
+xunits    = "m"
+yname     = y
+yunits    = "m"
+xfirst    = 0
+xinc      = 12191
+yfirst    = 0
+yinc      = 12191
+scanningMode = 64
+grid_mapping = Lambert_Conformal
+grid_mapping_name = lambert_conformal_conic
+standard_parallel = 25.
+longitude_of_central_meridian = 265.
+latitude_of_projection_origin = 25.
+earth_radius = 6371229.
+false_easting = 4226106.99691547
+false_northing = 832698.261017564
+longitudeOfFirstGridPointInDegrees = 226.541
+latitudeOfFirstGridPointInDegrees = 12.19
+longitudeOfSouthernPoleInDegrees = 0.
+latitudeOfSouthernPoleInDegrees = -90.
+
